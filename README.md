@@ -1,6 +1,8 @@
 # Face-mask-detection-project
 Face Mask Detector with Python. 
+
 Technology :- Machine Learning
+
 Modules used :- Keras
                 OpenCv
                 Tensorflow
